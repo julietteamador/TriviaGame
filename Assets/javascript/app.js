@@ -1,18 +1,3 @@
-var functionObject = {
-    function1: function () {
-        console.log('hi');
-    },
-    fn2: function () {
-        console.log("what's up");
-    },
-    adder: function (num1, num2) {
-        console.log(num1 + num2);
-    }
-
-}
-
-functionObject.fn2()
-
 
 var frozenQuestions = [
     {

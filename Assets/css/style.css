@@ -1,10 +1,12 @@
 body{
     background-image: url(../images/snowflake-background-vector-319329.jpg);
-
 }
+
 h1{
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     position: relative;
+    color: aqua;
+    font-size: 50px;
 }
 
 .option {
@@ -19,4 +21,8 @@ h1{
     top: 50%;
     bottom: 50%;
     margin: auto;
+}
+
+.option:hover{
+    background-color: lightblue;
 }
